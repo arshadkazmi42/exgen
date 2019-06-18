@@ -1,0 +1,28 @@
+{
+  "name": "compose-express-cli",
+  "version": "1.0.0",
+  "description": "Generate express apps for different functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/compose-express-cli.git"
+  },
+  "keywords": [
+    "express",
+    "compose",
+    "generate",
+    "app",
+    "create",
+    "express",
+    "app"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshadkazmi42/compose-express-cli/issues"
+  },
+  "homepage": "https://github.com/arshadkazmi42/compose-express-cli#readme"
+}
