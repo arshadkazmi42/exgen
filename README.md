@@ -1,2 +1,2 @@
-# compose-express-cli
+# exgen
 CLI to generate basic express project setup
