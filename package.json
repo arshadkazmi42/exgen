@@ -1,5 +1,5 @@
 {
-  "name": "compose-express-cli",
+  "name": "exgen",
   "version": "1.0.0",
   "description": "Generate express apps for different functionalities",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arshadkazmi42/compose-express-cli.git"
+    "url": "git+https://github.com/arshadkazmi42/exgen.git"
   },
   "keywords": [
     "express",
@@ -22,7 +22,7 @@
   "author": "Arshad Kazmi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/arshadkazmi42/compose-express-cli/issues"
+    "url": "https://github.com/arshadkazmi42/exgen/issues"
   },
-  "homepage": "https://github.com/arshadkazmi42/compose-express-cli#readme"
+  "homepage": "https://github.com/arshadkazmi42/exgen#readme"
 }
