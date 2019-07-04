@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/arshadkazmi42/exgen/issues"
   },
-  "homepage": "https://github.com/arshadkazmi42/exgen#readme"
+  "homepage": "https://github.com/arshadkazmi42/exgen#readme",
+  "dependencies": {
+    "ora": "^3.4.0"
+  }
 }
