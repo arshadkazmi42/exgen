@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const { Compose, Constants } = require('./lib');
+const { Compose } = require('./lib');
 
 const [, , ...args] = process.argv;
 

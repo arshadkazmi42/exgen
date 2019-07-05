@@ -8,7 +8,7 @@ const spinner = ora();
 
 
 const generateApi = (arg) => {
-  return new Promise((resolve, reject) => {
+  return new Promise((resolve) => {
     spinner.start(`Generating ${arg}...`);
     exec(`git clone ${Constants.URLS[arg]}`, (error, stdout, stderr) => {
       if (error !== null) {
@@ -20,7 +20,7 @@ const generateApi = (arg) => {
       return resolve();
     });
   });
-}
+};
 
 
 module.exports = generateApi;

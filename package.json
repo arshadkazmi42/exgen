@@ -4,6 +4,8 @@
   "description": "Generate express apps for different functionalities",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
@@ -34,5 +36,11 @@
     "lodash": "^4.17.11",
     "log-symbols": "^3.0.0",
     "ora": "^3.4.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0"
   }
 }
