@@ -25,6 +25,14 @@ $ exgen dummy
 ✖ dummy: argument is not supported yet.
 ```
 
+## Flags
+
+- `api` 
+  - Generates express api boilerplate
+
+- `help`
+  - List all flags with discription
+
 ## Contributing
 
 Interested in contributing to this project?
