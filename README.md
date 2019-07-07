@@ -1,4 +1,7 @@
 # exgen
+
+[![Build](https://img.shields.io/travis/com/arshadkazmi42/exgen.svg)](https://travis-ci.com/arshadkazmi42/exgen/)
+
 CLI to generate basic express project setup
 
 ## Install
