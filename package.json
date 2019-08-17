@@ -1,6 +1,6 @@
 {
   "name": "exgen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate express apps for different functionalities",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,11 @@
     "express-generate": "index.js",
     "exgen": "index.js"
   },
+  "files": [
+    "index.js",
+    "lib/",
+    "generators/"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arshadkazmi42/exgen.git"
