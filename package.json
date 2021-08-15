@@ -1,6 +1,6 @@
 {
   "name": "exgen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate express apps for different functionalities",
   "main": "index.js",
   "scripts": {
@@ -44,8 +44,8 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0",
     "eslint": "^5.11.1",
-    "eslint-config-strongloop": "^2.1.0"
+    "eslint-config-strongloop": "^2.1.0",
+    "mocha": "^5.2.0"
   }
 }
