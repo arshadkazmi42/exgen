@@ -1,6 +1,6 @@
 # exgen
 
-[![Build](https://img.shields.io/travis/com/arshadkazmi42/exgen.svg)](https://travis-ci.com/arshadkazmi42/exgen/)
+[![Build](https://github.com/arshadkazmi42/exgen/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/exgen/actions/workflows/nodejs.yml)
 
 CLI to generate basic express project setup
 
