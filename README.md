@@ -1,5 +1,14 @@
 # exgen
 
+[![Build](https://github.com/shikhar13012001/exgen/actions/workflows/nodejs.yml/badge.svg)](https://github.com/shikhar13012001/exgen/actions/workflows/nodejs.yml)
+[![NPM Version](https://img.shields.io/npm/v/exgen.svg)](https://www.npmjs.com/package/exgen)
+[![NPM Downloads](https://img.shields.io/npm/dt/exgen.svg)](https://www.npmjs.com/package/exgen)
+[![Github Repo Size](https://img.shields.io/github/repo-size/shikhar13012001/exgen.svg)](https://github.com/shikhar13012001/exgen)
+[![LICENSE](https://img.shields.io/npm/l/exgen.svg)](https://github.com/shikhar13012001/exgen/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/shikhar13012001/exgen.svg)](https://github.com/shikhar13012001/exgen/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/shikhar13012001/exgen.svg)](https://github.com/shikhar13012001/exgen/commits/master)
+
+
 [![Build](https://github.com/arshadkazmi42/exgen/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/exgen/actions/workflows/nodejs.yml)
 
 CLI to generate basic express project setup
